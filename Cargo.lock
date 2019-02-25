@@ -1,0 +1,4 @@
+[[package]]
+name = "learning_rust_sdl2"
+version = "0.1.0"
+
